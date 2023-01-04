@@ -1,7 +1,7 @@
 # Patika-Veri-Yapilari-ve-Algoritmalar-Merge-Sort-Projesi
 
 
-[16,21,11,8,12,22] dizinin Merge Sort türüne göre aşamaları:
+[16,21,11,8,12,22] dizisinin Merge Sort türüne göre aşamaları:
 
 Tek eleman kalana kadar liste iki parçaya ayrılırak devam edilir:
 
