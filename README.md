@@ -11,7 +11,7 @@ Tek eleman kalana kadar liste iki parçaya ayrılırak devam edilir:
 
 [16],  [21], [11]   , [8] , [12]  ,  [22] 
 
-Daha sonra birbirleiyle kıyaslanarak küçükten büyüğe doğru olacak şekilde sıralı olarak yine gruplar halinde birleştirilir.
+Daha sonra birbirleriyle kıyaslanarak küçükten büyüğe doğru olacak şekilde sıralı olarak yine gruplar halinde birleştirilir.
 
 [11,16,21]  ,  [8,12,22]
 
